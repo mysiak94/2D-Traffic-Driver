@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B0AF4231-AF20-62A3-AABF-F8404D43633B}") = "2D Traffic Driver", "Assembly-CSharp.csproj", "{39B996DB-D165-205A-0D4B-4FB65C391BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B996DB-D165-205A-0D4B-4FB65C391BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B996DB-D165-205A-0D4B-4FB65C391BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B996DB-D165-205A-0D4B-4FB65C391BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B996DB-D165-205A-0D4B-4FB65C391BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
