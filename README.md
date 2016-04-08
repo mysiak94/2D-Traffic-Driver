@@ -1,10 +1,10 @@
 # 2D-Traffic-Driver
 
 
-Typ gry: Zręcznościowa
-Przeznaczenie: Windows 7, 8.1, 10 32 i 64 bit (może też Android)
-Środowisko: Unity
-Język skryptów: C#
+-Typ gry: Zręcznościowa,
+-Przeznaczenie: Windows 7, 8.1, 10 (32/64 bitowe) (może też Android)
+-Środowisko: Unity
+-Język skryptów: C#
 
 
 1. Stworzenie sceny.
