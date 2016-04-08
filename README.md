@@ -7,7 +7,6 @@ Przeznaczenie: Windows 7, 8.1, 10 32 i 64 bit (może też Android)
 Język skryptów: C#
 
 
-
 1. Stworzenie sceny.
 2. Stworzenie samochodu gracza.
 3. Dodanie sterowania.
