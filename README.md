@@ -20,11 +20,10 @@
 9. Dodanie Audio.
 
 
-
-Muzyka: http://ericskiff.com/music/
-Modele i textury: http://opengameart.org/
-Dźwięki: http://soundbible.com/1456-Car-Accelerating.html
+-Muzyka: http://ericskiff.com/music/
+-Modele i textury: http://opengameart.org/
+-Dźwięki: http://soundbible.com/1456-Car-Accelerating.html
          https://www.freesoundeffects.com/free-sounds/cars-10069/
-Logo i napisy wykonane w: https://cooltext.com/
+-Logo i napisy wykonane w: https://cooltext.com/
 
           
