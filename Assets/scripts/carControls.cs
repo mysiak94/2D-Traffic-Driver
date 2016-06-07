@@ -6,13 +6,18 @@ public class carControls : MonoBehaviour {
 	public float carSpeed;
 
 	public float maxPos = 2.2f;
-	Vector2 position;
+	Vector3 position;
+	public uiManager ui;
 
-
+	void Awake() {
+	
+	
+	}
+		
 
 	// Use this for initialization
 	void Start () {
-		
+
 		position = transform.position;
 	}
 	
@@ -30,6 +35,7 @@ public class carControls : MonoBehaviour {
 
 		if (col.gameObject.tag == "Enemy Car") {
 			Destroy (gameObject);
+			ui.gameOverActivated();
 		}
 
 	}
